@@ -1,0 +1,2 @@
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","file/Mineverse.zip"]
