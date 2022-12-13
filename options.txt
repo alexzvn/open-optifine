@@ -1,2 +1,2 @@
 darkMojangStudiosBackground:true
-resourcePacks:["mod_resources","vanilla","file/Mineverse512.zip"]
+resourcePacks:["mod_resources","vanilla","file/Mindblock512.zip"]
