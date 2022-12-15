@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Mindblock resource pack",
+      "url": "https://github.com/alexzvn/open-optifine/blob/main/resourcepacks/Mindblock512.zip?raw=true",
+      "hash": "",
+      "destination": "/resourcepacks/Mindblock512.zip",
+      "size": 0
+    },
+    {
+      "name": "Mindblock shader pack",
+      "url": "https://github.com/alexzvn/open-optifine/blob/main/shaderpacks/ComplementaryShaders_v4.1.zip?raw=true",
+      "hash": "",
+      "destination": "/shaderpacks/ComplementaryShaders_v4.1.zip",
+      "size": 0
+    },
+    {
+      "name": "Voice Mod",
+      "url": "https://mediafilez.forgecdn.net/files/4104/7/voicechat-forge-1.18.2-2.3.16.jar",
+      "hash": "",
+      "destination": "/mods/voicechat.jar",
+      "size": 0
+    },
+    {
+      "name": "Optifine",
+      "url": "http://res.tlauncher.org/unb/mods/20225527/11002227/OptiFine-1.18.2_HD_U_H9_pre1.jar",
+      "hash": "150fdfcb774819baf7c12b23bb8e558f7982808a",
+      "size": 6226978,
+      "destination": "/mods/OptiFine-1.18.2_HD_U_H9_pre1.jar"
+    }
+  ]
+  
