@@ -21,6 +21,13 @@
     "size": 0
   },
   {
+    "name": "TLSkinCape",
+    "url": "https://github.com/alexzvn/open-optifine/blob/main/mods/tl_skin_cape_forge_1.18_1.18.2-1.25.jar?raw=true",
+    "hash": "6715eb1da16028042609d2f8fb03d637ce4dc546",
+    "destination": "/mods/tl_skin_cape_forge_1.18_1.18.2-1.25.jar",
+    "size": 0
+  },
+  {
     "name": "Voice Mod",
     "url": "https://mediafilez.forgecdn.net/files/4104/7/voicechat-forge-1.18.2-2.3.16.jar",
     "hash": "da7d50a8d2082c9e14bbaaf9c846e209b96bbb3b",
