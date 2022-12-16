@@ -33,5 +33,12 @@
     "hash": "150fdfcb774819baf7c12b23bb8e558f7982808a",
     "size": 6226978,
     "destination": "/mods/OptiFine-1.18.2_HD_U_H9_pre1.jar"
+  },
+  {
+    "name": "Minimap setting",
+    "url":"https://github.com/alexzvn/open-optifine/blob/main/config/xaerominimap.txt?raw=true",
+    "hash": "0bd4f4b79f0c8e02f99b7b178889027c7efe414a",
+    "destination":"/config/xaerominimap.txt",
+    "size": 1252398
   }
 ]
