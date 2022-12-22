@@ -1,9 +1,9 @@
 [
   {
     "name": "Mindblock resource pack",
-    "url": "https://github.com/alexzvn/open-optifine/blob/main/resourcepacks/Mindblock512.zip?raw=true",
-    "hash": "4a62c607680f9974c22f088c46e27ed5aecf5dcf",
-    "destination": "/resourcepacks/Mindblock512.zip",
+    "url": "http://resourcepack.host/dl/EcPq0ErzQV2go2CxtEBI4gLNP2e0PorK/Mindblock_UI.zip",
+    "hash": "4694c107111b3fd362b312ca30c2f351c36f3fcd",
+    "destination": "/resourcepacks/Mindblock_UI.zip",
     "size": 0
   },
   {
