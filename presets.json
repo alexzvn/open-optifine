@@ -47,5 +47,19 @@
     "hash": "0bd4f4b79f0c8e02f99b7b178889027c7efe414a",
     "destination":"/config/xaerominimap.txt",
     "size": 1252398
+  },
+  {
+    "name": "Kotlin library",
+    "url":"https://github.com/alexzvn/open-optifine/blob/main/mods/kotlinforforge-3.4.0-obf.jar?raw=true",
+    "hash": "53543478d231a25a8283017fe9e01f8d54cac528",
+    "destination":"/mods/kotlinforforge-3.4.0-obf.jar",
+    "size": 0
+  },
+  {
+    "name": "Mindblock Mod",
+    "url":"https://github.com/alexzvn/open-optifine/blob/main/mods/MindBlockMod-1.0.0.jar?raw=true",
+    "hash": "9d27f131057bcec89c1a6b58984d8084d703daa5",
+    "destination":"/mods/MindBlockMod-1.0.0.jar",
+    "size": 0
   }
 ]
