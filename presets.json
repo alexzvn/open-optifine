@@ -57,8 +57,8 @@
   },
   {
     "name": "Mindblock Mod",
-    "url":"https://github.com/alexzvn/open-optifine/blob/main/mods/MindBlockMod-1.0.0.jar?raw=true",
-    "hash": "9d27f131057bcec89c1a6b58984d8084d703daa5",
+    "url":"https://github.com/alexzvn/open-optifine/blob/main/mods/MindBlockMod-1.0.1.jar?raw=true",
+    "hash": "1005e515e0d3bc45b75340acae986ba439b70123",
     "destination":"/mods/MindBlockMod-1.0.0.jar",
     "size": 0
   }
