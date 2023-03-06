@@ -1,9 +1,9 @@
+resourcePacks:["mod_resources","vanilla","file/Mindblock_UI.zip"]
 darkMojangStudiosBackground:true
+skipMultiplayerWarning:true
+
 realmsNotifications:false
 guiScale:3
 autoSuggestions:false
-resourcePacks:["mod_resources","vanilla","file/Mindblock_UI.zip"]
-mbVersion:1
 tutorialStep:none
-skipMultiplayerWarning:true
 hideBundleTutorial:true
