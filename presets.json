@@ -47,5 +47,12 @@
     "hash": "53543478d231a25a8283017fe9e01f8d54cac528",
     "destination":"/mods/kotlinforforge-3.4.0-obf.jar",
     "size": 0
+  },
+  {
+    "name": "Mindblock Mod",
+    "url":"https://github.com/alexzvn/open-optifine/blob/main/mods/MindBlockMod-1.0.1.jar?raw=true",
+    "hash": "1005e515e0d3bc45b75340acae986ba439b70123",
+    "destination":"/mods/MindBlockMod-1.0.0.jar",
+    "size": 0
   }
 ]
